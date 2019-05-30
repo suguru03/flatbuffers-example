@@ -1,0 +1,11 @@
+{
+  name: 'Orc',
+  desc: 'Orc desc',
+  stats: {
+    hp: 10,
+    sp: 10
+  },
+  extra: {
+    a: 'test'
+  }
+}

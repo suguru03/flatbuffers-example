@@ -1,0 +1,9 @@
+namespace Data.Monster;
+struct Stats {
+  hp: int;
+  sp: int;
+}
+table Extra {
+  a: string;
+}
+

@@ -1,0 +1,9 @@
+include "monster/stats.fbs";
+namespace Data;
+table Monster {
+  name: string (key);
+  desc: string (required);
+  stats: Monster.Stats;
+  extra: Monster.Extra;
+}
+root_type Monster;
