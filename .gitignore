@@ -1,0 +1,6 @@
+*.cs
+*.ts
+*.js
+*.bin
+
+node_modules
