@@ -1,0 +1,12 @@
+{
+  monsters: [
+    {
+      name: 'Orc',
+      desc: 'Orc desc'
+    },
+    {
+      name: 'Pikachu',
+      desc: 'https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)'
+    },
+  ]
+}

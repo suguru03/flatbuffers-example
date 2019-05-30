@@ -1,0 +1,6 @@
+namespace Data;
+table Monster {
+  name: string (key);
+  desc: string (required);
+}
+root_type Monster;
